@@ -1,4 +1,4 @@
-# Data Science / Mathematics
-## Educacition
-### Bachelor of Mathematics
-### Data Sciente Master
+# Welcome to my personal site!
+## Education
+### Bachelor of Mathematics (University of Valencia)
+### Data Sciente Master (University of Alicante)
