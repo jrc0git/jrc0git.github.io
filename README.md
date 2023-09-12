@@ -1,1 +1,4 @@
-# jrc0git.github.io
+# Data Science / Mathematics
+## Educacition
+### Bachelor of Mathematics
+### Data Sciente Master
